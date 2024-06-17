@@ -1,7 +1,7 @@
 ## Hey I'm Software Developer and Data Engineer ☕
 <div align="center">
   <a href="https://github.com/Liaelis">
-  <a href="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)¨></a>
+  <a href="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)"></a>
 </div> 
   ##
 <div> 
